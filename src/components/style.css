@@ -84,6 +84,8 @@
     padding: 5px;
     border: none;
     font-size: 20px;
+    outline: none;
+    background-color: yellow;
 }
 
 .icon{
